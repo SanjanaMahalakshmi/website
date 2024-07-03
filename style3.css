@@ -1,0 +1,55 @@
+ul{
+    list-style-type: none;
+    background-color: pink;
+    
+}
+    
+li{
+    display: inline;
+    margin: 20px;
+    font-size: xx-large;
+    word-spacing: 50px;
+    margin-left: 70px;
+    color: white;
+    
+}
+.image{
+    float: left;
+    
+}
+h2{
+    text-align: center;
+}
+th{
+    text-align: justify;
+    text-decoration-style: arial;
+}
+.para1{
+    
+    margin: 20px 40px 30px 40px;
+    padding: 20px 40px 20px 40px;
+    font-size: xx-large;
+    
+}
+table{
+    align-items: center;
+}
+.box{
+    width: 40%;
+    margin-left: 10%;
+    height: 50%;
+
+
+}
+.box1{
+    font-size: x-large;
+    
+}
+table{
+    background-color: pink;
+}
+h3{
+    background-color: palevioletred;
+}
+    
+
